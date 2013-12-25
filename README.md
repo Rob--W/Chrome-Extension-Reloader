@@ -6,6 +6,13 @@ At the options page, a simple yet effective interface provides a quick way to ch
 
 The button can also be clicked using Ctrl + Shift + E (to change this, go to `chrome://extensions/`, and click on "Keyboard Shortcuts")
 
+To use the extension after cloning the repository, follow the following steps:
+
+1. Visit `chrome://extensions/`
+2. Enable Developer mode.
+3. Click on `Load unpacked`extension`
+4. Select the Chrome-Extension-Reloader subdirectory (containing the `manifest.json`).
+
 Published at Stack overflow: [How do I auto-reload a Chrome extension I'm developing?][1]
 
   [1]: http://stackoverflow.com/a/9645435/938089?how-do-i-auto-reload-a-chrome-extension-im-developing
